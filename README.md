@@ -1,6 +1,6 @@
 ## Foundations Checkpoint 1
 
-### Getting Started:
+### Getting Started: HELLO WORLD
 
 1. **Clone** the Checkpoint and `cd` (change directories) so you are in the Checkpoint's directory in your terminal.
 
